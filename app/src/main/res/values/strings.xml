@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Food</string>
+    <string name="register">Register</string>
+    <string name="chicken">Chicken</string>
+    <string name="briyani">Briyani</string>
+    <string name="paneer">Paneer</string>
+    <string name="Momos">Momos</string>
+    <string name="Thali">Thali</string>
+    <string name="Chinese">Chinese</string>
+    <string name="Burgar">Burgar</string>
+    <string name="Dosa">Dosa</string>
+    <string name="Chili_Chicken">Chili Chicken</string>
+    <string name="Chowmin">Chowmin</string>
+    <string name="SendWich">SendWich</string>
+    <string name="Roll">Roll</string>
+    <string name="IceCream">Ice Cream</string>
+    <string name="Pizza">Pizza</string>
+    <string name="Paneer">Paneer</string>
+    <string name="title_activity_google_map">GoogleMap</string>
+    <string name="title_activity_mapviews">Mapviews</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="your_profile">Your profile</string>
+</resources>
